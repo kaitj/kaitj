@@ -8,14 +8,23 @@
 
 
 ### About Me
-&nbsp;&nbsp;🏫 **PhD Candidate** in Medical Biophysics at Western University
+&nbsp;&nbsp;🏫&nbsp; **PhD Candidate** in Medical Biophysics at Western University
 <br>
-&nbsp;&nbsp;:man_student: **BEng ('16)** in Electrical & Biomedical Engineering at McMaster University
+&nbsp;&nbsp;:man_student:&nbsp; **BEng ('16)** in Electrical & Biomedical Engineering at McMaster University
 <br>
-&nbsp;&nbsp;:brain: I develop pipelines and tools to study brain imaging data
+&nbsp;&nbsp;:brain:&nbsp; I develop pipelines and tools to study brain imaging data
 <br>
-&nbsp;&nbsp;:computer: Currently learning **Solidity** in my spare time
+&nbsp;&nbsp;:computer:&nbsp; Currently learning **Solidity** in my spare time
 <br>
+
+### Technologies
+&nbsp;&nbsp;🐍&nbsp; Primarily Python
+<br>
+&nbsp;&nbsp;🐋&nbsp; Docker / Singularity
+<br>
+&nbsp;&nbsp;:octocat:&nbsp; Git + Github Actions
+<br>
+&nbsp;&nbsp;💻&nbsp; VS Code
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaitj&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitj&langs_count=8&theme=algolia&layout=compact" alt="Jason :: Top Langs" />
