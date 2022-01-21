@@ -8,11 +8,9 @@
 
 
 ### About Me
-&nbsp;&nbsp;👨 My name is Jason
-<br>
 &nbsp;&nbsp;🏫 **PhD Candidate** in Medical Biophysics at Western University
 <br>
-&nbsp;&nbsp;:school: **BEng ('16)** in Electrical & Biomedical Engineering at McMaster University
+&nbsp;&nbsp;:man_student: **BEng ('16)** in Electrical & Biomedical Engineering at McMaster University
 <br>
 &nbsp;&nbsp;:brain: I develop pipelines and tools to study brain imaging data
 <br>
