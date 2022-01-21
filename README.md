@@ -16,7 +16,7 @@
 <br>
 &nbsp;&nbsp;:brain: I develop pipelines and tools to study brain imaging data
 <br>
-&nbsp;&nbsp;:computer: Currently learning Solidity in my spare time
+&nbsp;&nbsp;:computer: Currently learning **Solidity** in my spare time
 <br>
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaitj&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
