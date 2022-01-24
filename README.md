@@ -14,8 +14,6 @@
 <br>
 &nbsp;&nbsp;:brain:&nbsp; I develop pipelines and tools to study brain imaging data
 <br>
-&nbsp;&nbsp;:computer:&nbsp; Currently learning **Solidity** in my spare time
-<br>
 
 ### Technologies
 &nbsp;&nbsp;🐍&nbsp; Primarily Python
