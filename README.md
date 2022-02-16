@@ -15,7 +15,7 @@
 &nbsp;&nbsp;:brain:&nbsp; I develop pipelines and tools to study brain imaging data
 <br>
 
-### Technologies
+### Toolbox
 &nbsp;&nbsp;🐍&nbsp; Primarily Python
 <br>
 &nbsp;&nbsp;🐋&nbsp; Docker / Singularity
