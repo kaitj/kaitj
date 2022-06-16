@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://twitter.com/jasonkai" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=%40jasonkai&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fjasonkai"></a>
-    <a href="https://kaitj.github.io" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Website&style=flat-square&url=https%3A%2F%2Fkaitj.github.io"></a>
+    <a href="https://jasonkai.com" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Website&style=flat-square&url=https%3A%2F%2Fjasonkai.com"></a>
     <img src="https://komarev.com/ghpvc/?username=kaitj&style=flat-square">
 </div>
 
