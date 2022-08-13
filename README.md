@@ -10,7 +10,7 @@
 ### About Me
 &nbsp;&nbsp;🏫&nbsp; **PhD Candidate** in Medical Biophysics at Western University
 <br>
-&nbsp;&nbsp;:man_student:&nbsp; **BEng ('16)** in Electrical & Biomedical Engineering at McMaster University
+&nbsp;&nbsp;:man_student:&nbsp; **BEng** in Electrical & Biomedical Engineering at McMaster University
 <br>
 &nbsp;&nbsp;:brain:&nbsp; I develop pipelines and tools to study brain imaging data
 <br>
