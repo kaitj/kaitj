@@ -28,4 +28,4 @@
 &nbsp;&nbsp;📓&nbsp; Jupyter Notebooks
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaitj&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitj&langs_count=8&theme=algolia&layout=compact" alt="Jason :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitj&langs_count=6&theme=algolia&layout=compact" alt="Jason :: Top Langs" />
