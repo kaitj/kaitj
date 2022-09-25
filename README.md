@@ -9,7 +9,7 @@
 
 
 ### About Me
-&nbsp;&nbsp;🏫&nbsp; **PhD Candidate** in Medical Biophysics at Western University
+&nbsp;&nbsp;🏫&nbsp; **PhD** in Medical Biophysics at Western University
 <br>
 &nbsp;&nbsp;:man_student:&nbsp; **BEng** in Electrical & Biomedical Engineering at McMaster University
 <br>
