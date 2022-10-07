@@ -13,7 +13,7 @@
 <br>
 &nbsp;&nbsp;:man_student:&nbsp; **BEng** in Electrical & Biomedical Engineering at McMaster University
 <br>
-&nbsp;&nbsp;:brain:&nbsp; I develop pipelines and tools to study brain imaging data
+&nbsp;&nbsp;:brain:&nbsp; I apply machine learning and develop pipelines / tools to study the brain
 <br>
 
 ### Toolbox
