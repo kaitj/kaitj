@@ -9,23 +9,11 @@
 
 
 ### About Me
-&nbsp;&nbsp;🏫&nbsp; **PhD** in Medical Biophysics at Western University
+&nbsp;&nbsp;:brain:&nbsp; I apply machine learning and engineer data pipelines to ingest, process, and analyze the brain, supporting research involving different clinical patient populations
+<br>
+&nbsp;&nbsp;:school:&nbsp; **PhD** in Medical Biophysics at Western University
 <br>
 &nbsp;&nbsp;:man_student:&nbsp; **BEng** in Electrical & Biomedical Engineering at McMaster University
-<br>
-&nbsp;&nbsp;:brain:&nbsp; I apply machine learning and develop pipelines / tools to study the brain
-<br>
-
-### Toolbox
-&nbsp;&nbsp;🐍&nbsp; Primarily Python
-<br>
-&nbsp;&nbsp;🐋&nbsp; Docker / Singularity
-<br>
-&nbsp;&nbsp;:octocat:&nbsp; Git + Github Actions
-<br>
-&nbsp;&nbsp;💻&nbsp; VS Code
-<!-- <br>
-&nbsp;&nbsp;📓&nbsp; Jupyter Notebooks -->
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaitj&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitj&langs_count=6&theme=algolia&layout=compact" alt="Jason :: Top Langs" /> -->
