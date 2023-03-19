@@ -11,7 +11,7 @@
 ### About Me
 &nbsp;&nbsp;:brain:&nbsp; I apply machine learning and engineer data pipelines to ingest, process, and analyze the brain, supporting research involving different clinical patient populations
 <br>
-&nbsp;&nbsp;:school:&nbsp; **PhD** in Medical Biophysics at Western University
+&nbsp;&nbsp;:school:&nbsp; **PhD** in Medical Biophysics at University of Western Ontario
 <br>
 &nbsp;&nbsp;:man_student:&nbsp; **BEng** in Electrical & Biomedical Engineering at McMaster University
 
