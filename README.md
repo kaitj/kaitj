@@ -9,7 +9,7 @@
 
 
 ### About Me
-&nbsp;&nbsp;:brain:&nbsp; I apply machine learning and engineer data pipelines to ingest, process, and analyze the brain, supporting research involving different clinical patient populations
+&nbsp;&nbsp;:brain:&nbsp; I apply machine learning and engineer data pipelines to support research of the brain
 <br>
 &nbsp;&nbsp;:school:&nbsp; **PhD** in Medical Biophysics at University of Western Ontario
 <br>
