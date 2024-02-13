@@ -14,4 +14,4 @@
 &nbsp;&nbsp;👨‍🎓&nbsp; **BEng** in Electrical & Biomedical Engineering at McMaster University
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaitj&rank_icon=github&theme=dark)](https://github.com/anuraghazra/github-readme-stats&show_icons=github)
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitj&langs_count=6&theme=algolia&layout=compact" alt="Jason :: Top Langs" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitj&langs_count=6&theme=algolia&layout=compact&hide=jupyter%20notebook" alt="Jason :: Top Langs" />
