@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I'm Jason 👋 </h1>
+<h1 align="left"> Hey there! 👋 </h1>
 
 <p align="center">
     <a href="https://twitter.com/jasonkai" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=%40jasonkai&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fjasonkai"></a>
