@@ -7,7 +7,7 @@
 </p>
 
 ### About Me
-&nbsp;&nbsp;🧠&nbsp; Applying machine learning and engineering data pipelines to support research of the brain
+&nbsp;&nbsp;🧠&nbsp; Building software infrastructure to support brain research
 <br>
 &nbsp;&nbsp;🏫&nbsp; **PhD** in Medical Biophysics at University of Western Ontario
 <br>
