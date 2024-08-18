@@ -7,7 +7,7 @@
 </p>
 
 ### About Me
-&nbsp;&nbsp;🧠&nbsp; Building software infrastructure to support brain research
+&nbsp;&nbsp;🧠&nbsp; Developing scalable software infrastructure to support brain research
 <br>
 &nbsp;&nbsp;🏫&nbsp; **PhD** in Medical Biophysics at University of Western Ontario
 <br>
